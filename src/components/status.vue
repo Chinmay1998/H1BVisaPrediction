@@ -10,7 +10,7 @@
       data-toggle="modal"
       data-target="#exampleModalCenter"
     >Submit</button>
-<geo-chart :data="[['United States']]"></geo-chart>
+<!-- <geo-chart :data="[['United States']]"></geo-chart> -->
     <div
       class="modal fade"
       id="exampleModalCenter"
